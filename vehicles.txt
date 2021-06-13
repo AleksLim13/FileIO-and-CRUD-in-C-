@@ -1,0 +1,6 @@
+1,subaru,impreza,2019,new,
+2,mitsubishi,eclipse,2021,new,
+3,ford,mustang,2020,new,
+4,dodge,challenger,2021,new,
+5,nissan,350z,2018,new,
+6,dodge,durango,2020,new,
